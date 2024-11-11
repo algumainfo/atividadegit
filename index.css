@@ -8,13 +8,14 @@ p{
 }
 img{
     width: 400px,600px;
+}
 input{
     width: 100px;
     height: 20px;
 
 }
 button{
-    background-color: black;
+    background-color: red;
     color: white;
 }
 
